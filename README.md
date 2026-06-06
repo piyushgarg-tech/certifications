@@ -12,7 +12,7 @@ This repository contains my certificates, workshops, and learning achievements.
 
 Certificate File:
 
-* 25f3004745_GCP_certificate.pdf
+* iitm-gcp-cloud-computing-certificate.pdf
 
 ## Ongoing Learning
 
