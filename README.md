@@ -1,62 +1,37 @@
 # Certifications
 
-This repository contains my certificates, workshops, and learning achievements.
+This repository contains certificates earned through academic programs, professional courses, and technical learning initiatives.
 
-## Completed Certifications
+## Earned Certifications
 
 ### Introduction to Cloud Computing with GCP
 
-* Organization: IIT Madras BS Degree Program
+* Issued By: IIT Madras BS Degree Program
 * Date: May 2026
-* Status: Completed
+* Certificate: `iitm-gcp-cloud-computing-certificate.pdf`
 
-Certificate File:
+### Python Programming Certification
 
-* iitm-gcp-cloud-computing-certificate.pdf
+* Issued By: TuteDude
+* Certificate: `tuteDude-python-course-completion-certificate.pdf`
 
-## Ongoing Learning
+## Areas of Learning
 
-### Tutedude Python Course
-
-* Currently completing assignments
-* Certificate expected after successful completion
-
-### Apna College Sigma 12
-
-* Full Stack Web Development Program
-* Started: June 2026
-* Expected Duration: Approximately 10 Months
-
-Topics:
-
-* HTML
-* CSS
-* JavaScript
-* React
-* Node.js
-* Express.js
-* MongoDB
-
-## Future Certifications
-
-* AWS Cloud Practitioner
-* Docker
-* Kubernetes
-* Advanced Cloud Certifications
+* Data Science
+* Python Development
+* Cloud Computing
+* Linux
+* Git & GitHub
+* DevOps
+* Web Development
 
 ---
 
 ### About Me
 
-Piyush Garg
+**Piyush Garg**
 
-IIT Madras BS Data Science Student
+BS in Data Science and Applications
+Indian Institute of Technology Madras
 
-Currently learning:
-
-* Python
-* Linux
-* Git & GitHub
-* AWS
-* DevOps
-* Web Development
+LinkedIn: [www.linkedin.com/in/piyush-garg-iitm](http://www.linkedin.com/in/piyush-garg-iitm)
